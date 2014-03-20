@@ -1,0 +1,3 @@
+[
+    { "keys": ["super+v"], "command": "nfd_to_nfc_paste" }
+]
